@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.3.0",
-  "downloadUrl": "https://github.com/infrared-o8/ir_mus/releases/download/v1.3.0/app-release.apk",
-  "changelog": "Added global download manager\nNotification func\nShare music",
+  "versionCode": 6,
+  "versionName": "1.3.1",
+  "downloadUrl": "https://github.com/infrared-o8/ir_mus/releases/download/v1.3.1/app-release.apk",
+  "changelog": "Bug fixes to download manager\nCan access queues now",
   "forceUpdate": false
 }
