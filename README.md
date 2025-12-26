@@ -17,11 +17,9 @@ Infrared Music was developed to allow me to directly be able to download music w
 * Basic settings and preferences (not fully implemented yet, the color themes dont work)
 * Built-in update checking via GitHub
 
+## Download
 
-## Platform
-
-* Distributed as an APK
-
+You can download the latest release (apk file) from [Releases](https://github.com/infrared-o8/ir_mus/releases).
 
 ## Project Status
 
@@ -29,3 +27,4 @@ The app is under development, although postponed.
 Some features (such as advanced settings and accessibility tools/options) are still being expanded.
 
 Bug reports and practical feedback are welcome :D
+
