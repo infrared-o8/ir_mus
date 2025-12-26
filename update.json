@@ -2,6 +2,6 @@
   "versionCode": 8,
   "versionName": "1.3.3",
   "downloadUrl": "https://github.com/infrared-o8/ir_mus/releases/download/v1.3.3/app-release.apk",
-  "changelog": "Added analytics to track crashes and usage patterns.\nFixed minor bugs reported in the previous version.",
+  "changelog": "Added analytics to track crashes and usage patterns.\nFixed settings colors.\nFixed minor bugs reported in the previous version.",
   "forceUpdate": false
 }
