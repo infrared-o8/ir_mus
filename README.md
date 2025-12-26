@@ -6,7 +6,6 @@ The project began as a personal tool and is now maintained as a public repositor
 
 Infrared Music was developed to allow me to directly be able to download music without relying on sketchy websites :p
 
----
 
 ## Features
 
@@ -18,13 +17,11 @@ Infrared Music was developed to allow me to directly be able to download music w
 * Basic settings and preferences (not fully implemented yet, the color themes dont work)
 * Built-in update checking via GitHub
 
----
 
 ## Platform
 
 * Distributed as an APK
 
----
 
 ## Project Status
 
