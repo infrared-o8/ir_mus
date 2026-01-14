@@ -4,7 +4,7 @@ The project began as a personal tool and is now maintained as a public repositor
 
 ## What Problem This Solves
 
-Infrared Music was developed to allow me to directly be able to download music without relying on sketchy websites :p
+This was developed to allow me to directly be able to download music without relying on websites :p
 
 
 ## Features
@@ -14,7 +14,7 @@ Infrared Music was developed to allow me to directly be able to download music w
 * Single-item, batch, and playlist handling
 * File sharing from within the app
 * Network controls (e.g., Wi-Fi only)
-* Basic settings and preferences (not fully implemented yet, the color themes dont work)
+* Basic settings and preferences (not fully implemented yet, the color themes dont work yet cuz my UI code needs reorganising)
 * Built-in update checking via GitHub
 
 ## Download
