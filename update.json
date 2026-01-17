@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.3.3",
-  "downloadUrl": "https://github.com/infrared-o8/ir_mus/releases/download/v1.3.3/app-release.apk",
-  "changelog": "Added analytics to track crashes and usage patterns.\nFixed settings colors.\nFixed minor bugs reported in the previous version.",
+  "versionCode": 9,
+  "versionName": "1.4.0",
+  "downloadUrl": "https://github.com/infrared-o8/ir_mus/releases/download/v1.4.0/app-release.apk",
+  "changelog": "Added a simple music player.\nReworked home page.\nPrecursor for local sharing started.\nPrecursor for live notifications added.\nAdded mp4 download option (under dev).\nMade everything look a teeny bit better.\nYou can now delete files.",
   "forceUpdate": false
 }
