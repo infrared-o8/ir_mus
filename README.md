@@ -19,6 +19,8 @@ This was developed to allow me to directly be able to download music without rel
 
 ## Download
 
+[![VirusTotal Scan](https://img.shields.io/badge/VirusTotal-Clean%200%2F61-brightgreen?logo=virustotal)]([YOUR_VIRUSTOTAL_REPORT_URL_HERE](https://www.virustotal.com/gui/file/f42da283961443a6e8fe859ebc1ddd4016f11af3d03d9b86b9b3ffd2a2ab5588?nocache=1))
+
 You can download the latest release (apk file) from [Releases](https://github.com/infrared-o8/ir_mus/releases).
 
 ## Project Status
