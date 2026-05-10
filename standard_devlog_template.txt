@@ -1,0 +1,19 @@
+**Monetization & Access:** Introduced a new **Activation Code** system for premium access alongside a **Free Plan** option.
+* **UI/UX Refinements:**
+* Updated the app with a brand-new **temporary app icon**.
+* Fixed playlist display issues where multiple lines were showing for numbers.
+* Added **Pull-to-Refresh** functionality for search results.
+* New **Download Confirmation** flow with "Added to Queue" toasts for better feedback.
+
+**Live Notification Overhaul:**
+* Upgraded to **high-quality thumbnails** in notifications.
+* Patched persistent bugs where time wasn't updating or displaying properly.
+
+**Stability & Settings:**
+* Expanded the **Settings** menu with more customization.
+* Improved the music file deletion logic (more fixes incoming!).
+
+Please keep in mind, this is NOT a finished product. Bugs are to be expected. Any new bug, feature or improvement can be conveyed via email, telegram or the Issues section here in Github. Thank you!
+
+Email: infraredo979@gmail.com
+Telegram: @infr466

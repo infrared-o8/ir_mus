@@ -1,7 +1,7 @@
 {
   "versionCode": 12 ,
-  "versionName": "1.4.3",
-  "downloadUrl": "https://github.com/infrared-o8/ir_mus/releases/download/v1.4.3/app-release.apk",
-  "changelog": "Fixed multiple lines showed for playlist numbers.\nFixed weird live notification bug where it didn't show time\nReconfigured live notification to use a higher quality thumbnail\nFinally added a temporary app icon\nFixed bugs related to deleting music files, although it needs further improvement\nFixed live notification not updating time properly bug.\n",
+  "versionName": "1.5.0",
+  "downloadUrl": "https://github.com/infrared-o8/ir_mus/releases/download/v1.5.0/app-release.apk",
+  "changelog": "Fixed multiple lines showed for playlist numbers.\nFixed weird live notification bug where it didn't show time\nReconfigured live notification to use a higher quality thumbnail\nFinally added a temporary app icon\nFixed bugs related to deleting music files, although it needs further improvement\nFixed live notification not updating time properly bug.\nAdded refresh to the search results.\nAdded a download confirmation button and added to queue toast.\nAdded more settings.\nAdded an activation code functonality\nAdded a free plan.",
   "forceUpdate": false
 }
