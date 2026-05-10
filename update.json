@@ -3,5 +3,5 @@
   "versionName": "1.5.2",
   "downloadUrl": "https://github.com/infrared-o8/ir_mus/releases/download/v1.5.2/app-release.apk",
   "changelog": "Added song download limits since rate limits are being crossed very quickly. You can now download 10 songs additionally per ad viewed.",
-  "forceUpdate": false
+  "forceUpdate": true
 }
