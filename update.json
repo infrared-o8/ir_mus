@@ -1,7 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.5.3",
-  "downloadUrl": "https://github.com/infrared-o8/ir_mus/releases/download/v1.5.3/app-release.apk",
-  "changelog": "Can now open music files in this app.\nReworked premium option display.\n",
-  "forceUpdate": true
+  "versionCode": 14,
+  "versionName": "1.5.2",
+  "downloadUrl": "https://github.com/infrared-o8/ir_mus/releases/download/v1.5.2/app-release.apk",
+  "changelog": "Added song download limits since rate limits are being crossed very quickly. You can now download 10 songs additionally per ad viewed."
 }
