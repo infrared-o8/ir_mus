@@ -17,3 +17,5 @@ Please keep in mind, this is NOT a finished product. Bugs are to be expected. An
 
 Email: infraredo979@gmail.com
 Telegram: @infr466
+
+app.apk: infraredmusic-1.5.4.apk
