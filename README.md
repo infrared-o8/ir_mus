@@ -26,9 +26,13 @@ You can download the latest release (apk file) from [Releases](https://github.co
 ## Project Status
 
 The app is under development, although postponed.
+
 Some features (such as advanced settings and accessibility tools/options) are still being expanded.
+
 Please keep in mind, this is NOT a finished product. Any new bug, feature or improvement can be conveyed via email, telegram or the Issues section here in Github. Thank you!
 
 Whatsapp for first 50 free premium codes: +91 70126 38570
+
 Email: infraredo979@gmail.com
+
 Telegram: @infr466
