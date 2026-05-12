@@ -4,7 +4,7 @@ The project began as a personal tool and is now maintained as a public repositor
 
 ## What Problem This Solves
 
-This was developed to allow me to directly be able to download music without relying on websites :p
+This was developed to allow me to directly be able to download music without relying on random websites online :p
 
 
 ## Features
@@ -27,6 +27,8 @@ You can download the latest release (apk file) from [Releases](https://github.co
 
 The app is under development, although postponed.
 Some features (such as advanced settings and accessibility tools/options) are still being expanded.
+Please keep in mind, this is NOT a finished product. Any new bug, feature or improvement can be conveyed via email, telegram or the Issues section here in Github. Thank you!
 
-Bug reports and practical feedback are welcome :D
-
+Whatsapp for first 50 free premium codes: +91 70126 38570
+Email: infraredo979@gmail.com
+Telegram: @infr466
