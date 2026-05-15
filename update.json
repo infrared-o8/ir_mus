@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "1.5.4",
-  "downloadUrl": "https://github.com/infrared-o8/ir_mus/releases/download/v1.5.4/app-release.apk",
-  "changelog": "Can now open music files in this app.\nReworked premium option display.\nFixed multiple bugs."
+    "versionCode": 17,
+    "versionName": "1.5.5",
+    "downloadUrl": "https://github.com/infrared-o8/ir_mus/releases/download/v1.5.5/app-release.apk",
+    "changelog": "Added features and fixed bugs in version 1.5.4.\n- Fixed \"keep screen on doesn't work\" issue\n- Added \"clear search\" button to playlist view\n- Show update notification after granting permissions\n- Retrying failed updates automatically\n- Improved P2P interactions with secure passcode checking\n- Persistent quota saving to device, preventing uninstall-reinstall exploits\n- Display device ID in settings for user-specific activities\n- Added quick action for instant downloads from YouTube\n- Implemented a double-sided referral system\n- Fixed 8007 and 8012 radio error and status endpoint errors with InteractActivity P2P sharing\n- Resolved IllegalArgumentException in WordIterator usage\n- Fixed RecoverableSecurityException related to media content access\n- Addressed ForegroundServiceStartNotAllowedException in MusicNotificationService\n- Improved processing status handling by retrying API calls after 1000 ms delay\n- Enhanced mini-notification spacing based on notification size\n- Redesigned rewarded ad UI for download credits\n- Fixed issue with the refer and earn card not working\n- Added developer messages"
 }
