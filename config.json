@@ -1,0 +1,13 @@
+{
+  "youtubeApiKeys": [
+    "AIzaSyAEdt2LEJZctpOTKsfhJT3CBSFqOOo8Fxc",
+    "OPTIONAL_SECOND_KEY_HERE"
+  ],
+  "referralReward": 50,
+  "adReward": 10,
+  "p2pAdReward": 15,
+  "upiId": "zaman.kassim.e@okicici",
+  "qrUrl": "https://i.ibb.co/3ykT0z4/qr-code.png",
+  "supportWhatsapp": "+91 70126 38570",
+  "firebaseDbUrl": "https://irmusic-41665-default-rtdb.asia-southeast1.firebasedatabase.app"
+}
