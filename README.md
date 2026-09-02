@@ -8,29 +8,29 @@ The project began as a personal tool and is now maintained as a public repositor
   <table>
     <tr>
       <td align="center" width="33%">
-        <b>Hero Player // Void Matrix</b><br/><br/>
-        <img src="docs/screenshots/player.png" alt="Now Playing Screen" width="240"/>
+        <b>Library</b><br/><br/>
+        <img src="docs/screenshots/library.png" alt="Library Screen" width="240"/>
       </td>
       <td align="center" width="33%">
-        <b>Web Uplink Interface</b><br/><br/>
+        <b>Web Interface</b><br/><br/>
         <img src="docs/screenshots/web_uplink.png" alt="Ktor Web Client" width="240"/>
       </td>
       <td align="center" width="33%">
-        <b>Discord Rich Presence</b><br/><br/>
-        <img src="docs/screenshots/discord_rpc.png" alt="Discord Status" width="240"/>
+        <b>Now Playing</b><br/><br/>
+        <img src="docs/screenshots/now_playing.png" alt="Now Playing" width="240"/>
       </td>
     </tr>
     <tr>
       <td align="center" width="33%">
-        <b>Search & Queue</b><br/><br/>
+        <b>Search</b><br/><br/>
         <img src="docs/screenshots/search.png" alt="Search Screen" width="240"/>
       </td>
       <td align="center" width="33%">
-        <b>Mini Player Console</b><br/><br/>
-        <img src="docs/screenshots/mini_player.png" alt="Mini Player" width="240"/>
+        <b>Home Page</b><br/><br/>
+        <img src="docs/screenshots/home.png" alt="Home Page" width="240"/>
       </td>
       <td align="center" width="33%">
-        <b>Settings Matrix</b><br/><br/>
+        <b>Settings</b><br/><br/>
         <img src="docs/screenshots/settings.png" alt="Settings Screen" width="240"/>
       </td>
     </tr>
