@@ -1,15 +1,61 @@
 {
-  "youtubeApiKeys": [
-    "AIzaSyAEdt2LEJZctpOTKsfhJT3CBSFqOOo8Fxc",
-    "6a17b4f4cfmshc13bedce22f9b69p110973jsn0d9957ba526",
-    "2c89c1e724msh2530d3cc5d80991p11ef25jsn00823e89ee6",
+  "youtubeDataApiKeys": [
+    "AIzaSyAEdt2LEJZctpOTKsfhJT3CBSFqOOo8Fxc"
+  ],
+  "rapidApiAllKeys": [
+    "6a17b4f4cfmshc13bedce22f9b69p110973jsn0d9957ba5263",
+    "2c89c1e724msh2530d3cc5d80991p11ef25jsn00823e89ee61",
     "1fecf4574bmsh0d5b855bca60418p1a38ddjsnf8fc2aea9dda"
   ],
-  "referralReward": 50,
-  "adReward": 10,
-  "p2pAdReward": 15,
+  "endpoints": {
+    "spotifySearch": [
+      "spotify-downloader9.p.rapidapi.com"
+    ],
+    "spotifyDownload": [
+      "spotify-downloader9.p.rapidapi.com",
+      "spotify-music-mp3-downloader-api.p.rapidapi.com"
+    ],
+    "soundCloudSearch": [
+      "soundcloud4.p.rapidapi.com"
+    ],
+    "soundCloudDownload": [
+      "soundcloud-mp3-downloader-api.p.rapidapi.com"
+    ],
+    "ytMp3": [
+      "youtube-mp36.p.rapidapi.com"
+    ],
+    "ytMp4": [
+      "ytstream-download-youtube-videos.p.rapidapi.com"
+    ],
+    "ytVideoStream": [
+      "ytstream-download-youtube-videos.p.rapidapi.com"
+    ]
+  },
+  "pipedInstances": [
+    "https://pipedapi.kavin.rocks",
+    "https://pipedapi.leptons.xyz",
+    "https://pipedapi.nosebs.ru",
+    "https://api.piped.yt",
+    "https://pipedapi.drgns.space"
+  ],
+  "cobalt": {
+    "endpointUrl": "https://grew-dislodge-carol.ngrok-free.dev",
+    "useLocalCobalt": true,
+    "localCobaltIp": "192.168.1.5"
+  },
+  "spotify": {
+    "clientId": "YOUR_SPOTIFY_CLIENT_ID",
+    "redirectUri": "infraredmusic://spotify-callback"
+  },
+  "rewards": {
+    "referralReward": 50,
+    "adReward": 10,
+    "p2pAdReward": 15,
+    "lyricsAdReward": 5
+  },
+  "cooldownMs": 3600000,
+  "supportWhatsapp": "+91 70126 38570",
   "upiId": "zaman.kassim.e@okicici",
   "qrUrl": "https://i.ibb.co/3ykT0z4/qr-code.png",
-  "supportWhatsapp": "+91 70126 38570",
   "firebaseDbUrl": "https://irmusic-41665-default-rtdb.asia-southeast1.firebasedatabase.app"
 }
