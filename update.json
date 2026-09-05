@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "1.6.0",
-  "downloadUrl": "https://github.com/infrared-o8/ir_mus/releases/download/v1.6.0/app-release.apk",
+  "versionCode": 20,
+  "versionName": "1.6.1",
+  "downloadUrl": "https://github.com/infrared-o8/ir_mus/releases/download/v1.6.1/app-release.apk",
   "changelog": "### Infrared Music v1.6.1 (Bug fixes)\n\nFixed bluetooth devices not showing up.\nMigrated from simple IP and Port connection to cloudflared tunnel for playing audio data without downloading (streaming)."
 }
