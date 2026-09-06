@@ -2,13 +2,6 @@
 
 The project had began as a personal tool, so please don't expect very high quality.
 
-<div align="center">
-
-<!-- HERO BANNER GIF: The most eye-catching loop (Fluid Mesh / Expanding Player) -->
-<img src="docs/demos/hero_preview.gif" alt="Infrared Music Hero Showcase" width="100%"/>
-
-<br/><br/>
-
 [![Latest Release](https://img.shields.io/github/v/release/infrared-o8/ir_mus?color=00FF66&label=RELEASE&logo=android)](https://github.com/infrared-o8/ir_mus/releases)
 [![VirusTotal Scan](https://img.shields.io/badge/VirusTotal-Clean%200%2F61-brightgreen?logo=virustotal)](https://www.virustotal.com/gui/file/f42da283961443a6e8fe859ebc1ddd4016f11af3d03d9b86b9b3ffd2a2ab5588?nocache=1)
 
@@ -17,8 +10,6 @@ The project had began as a personal tool, so please don't expect very high quali
 ---
 
 ## Video Demonstration
-
-<!-- FULL DEMO VIDEO: Replace the YouTube URL with your uploaded link, or point to a local MP4 if stored in the repo/releases -->
 <div align="center">
   <a href="https://www.youtube.com/watch?v=YJoHNKigPSs">
     <img src="https://img.youtube.com/vi/YJoHNKigPSs/maxresdefault.jpg" alt="Watch Full Walkthrough" width="85%"/>
@@ -36,21 +27,18 @@ The project had began as a personal tool, so please don't expect very high quali
     <tr>
       <td align="center" width="50%">
         <b>Ktor Browser Uplink (Background Playback)</b><br/><br/>
-        <!-- GIF 2: Desktop browser streaming while phone screen is off -->
         <img src="docs/demos/ktor_uplink_demo.gif" alt="Ktor Uplink Demo" width="360"/>
         <br/><br/>
         <i>Host an in-browser streaming player directly on your PC over LAN with 0 cloud accounts.</i>
       </td>
       <td align="center" width="50%">
         <b>AGSL Fluid Mesh & Visual Kinetics</b><br/><br/>
-        <!-- GIF 3: Visualizer shaders reacting live to bass drops / slider tweaks -->
         <img src="docs/demos/visualizer_mesh_demo.gif" alt="AGSL Shaders Demo" width="360"/>
         <br/><br/>
         <i>Real-time Simplex noise and discrete node canvas rendering responsive to transient audio.</i>
       </td>
       <td align="center" width="50%">
         <b>Reactive Song Art Colors</b><br/><br/>
-        <!-- GIF 3: Visualizer shaders reacting live to bass drops / slider tweaks -->
         <img src="docs/demos/audio_color.gif" alt="Song Art Colors" width="360"/>
         <br/><br/>
         <i>Displaying how the background audio reactor engine dynamically changes with each song according their album art.</i>
@@ -110,7 +98,7 @@ This was developed to allow direct music downloads and local network streaming w
 * **Declarative Provider Dispatcher:** Multi-platform metadata and audio resolution with automated endpoint health failover.
 * **Hardware-Inspired Scrubber:** Micro-wire interpolated 60 FPS scrubber with zero-latency position updates.
 * **Network & Power Controls:** Strict Wi-Fi restrictions, auto-throttle under low battery, and charge-only download safeguards.
-* **Auto-Updater:** Direct release checks against GitHub Releases.
+* **Auto-Updater:** Direct release checks against GitHub Releases. (somewhat broken at the moment, Im working on fixing it. Until this is fixed, please download the latest APK files from Releases)
 
 ## Download
 
