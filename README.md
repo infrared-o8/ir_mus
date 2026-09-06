@@ -1,6 +1,6 @@
 # Infrared Music
 
-The project had began as a personal tool, so please don't expect very high quality.
+The project had began as a personal tool, and a work in progress.
 
 [![Latest Release](https://img.shields.io/github/v/release/infrared-o8/ir_mus?color=00FF66&label=RELEASE&logo=android)](https://github.com/infrared-o8/ir_mus/releases)
 [![VirusTotal Scan](https://img.shields.io/badge/VirusTotal-Clean%200%2F61-brightgreen?logo=virustotal)](https://www.virustotal.com/gui/file/f42da283961443a6e8fe859ebc1ddd4016f11af3d03d9b86b9b3ffd2a2ab5588?nocache=1)
