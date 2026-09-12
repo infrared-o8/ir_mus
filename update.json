@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "1.6.1",
-  "downloadUrl": "https://github.com/infrared-o8/ir_mus/releases/download/v1.6.1/app-release.apk",
-  "changelog": "### Infrared Music v1.6.1 (Bug fixes)\n\nFixed bluetooth devices not showing up.\nMigrated from simple IP and Port connection to cloudflared tunnel for playing audio data without downloading (streaming)."
+  "versionCode": 21,
+  "versionName": "1.6.2",
+  "downloadUrl": "https://github.com/infrared-o8/ir_mus/releases/download/v1.6.2/app-release.apk",
+  "changelog": "### Infrared Music v1.6.2 (Bug fixes)\n\nFixed annoying issue during song playback that resulted in the loss of playback flow.\nFixed prayer interceptor playing songs when phone is off even when set not to do so from settings."
 }
