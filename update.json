@@ -2,5 +2,5 @@
   "versionCode": 21,
   "versionName": "1.6.2",
   "downloadUrl": "https://github.com/infrared-o8/ir_mus/releases/download/v1.6.2/app-release.apk",
-  "changelog": "### Infrared Music v1.6.2 (Bug fixes)\n\nFixed annoying issue during song playback that resulted in the loss of playback flow.\nFixed prayer interceptor playing songs when phone is off even when set not to do so from settings."
+  "changelog": "### Infrared Music v1.6.2 (Bug fixes)\n\nFixed annoying issue during song playback that resulted in the loss of playback flow.\nFixed prayer interceptor playing songs when phone is off even when set not to do so from settings.\nFixed bug where notifications in-app weren't appearing anymore."
 }
